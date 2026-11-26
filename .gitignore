@@ -1,0 +1,19 @@
+# Alternate minimal design: kept locally, not shipped
+landing/minimal.html
+
+# Old photo versions that the page no longer uses (kept locally only)
+landing/assets/mainak.png
+landing/assets/mainak-tee.webp
+landing/assets/virat.png
+landing/assets/virat-full.png
+landing/assets/virat-new.png
+
+# OS / editor / tooling
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+node_modules/
+.next/
+.env*
